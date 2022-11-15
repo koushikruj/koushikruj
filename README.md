@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/koushikruj/koushikruj/blob/main/banner.png)
+[![MasterHead](https://github.com/koushikruj/koushikruj/blob/main/githubbanner.png)
 <h1 align="center">Hi 👋, I'm Koushik Ruj</h1>
 <h3 align="center">A passionate Frontend Developer from Westbengal</h3>
 <img align="right" alt="Coding" width="400" 
