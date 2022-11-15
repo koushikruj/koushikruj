@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Ethical Hacking , Font-end Webpage Related**
 
-- 📫 How to reach me **koushikruj@91@gmail.com**
+- 📫 How to reach me **koushikruj91@gmail.com**
 
 - ⚡ Fun fact **I am serious**
 
