@@ -8,8 +8,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikruj&label=Profile%20views&color=0e75b6&style=flat" alt="koushikruj" /> </p>
 
 
- 
 
+- 📫 How to reach me **koushikruj91@gmail.com**
+
+- 🖥️ Personal Website Link **http://koushikruj.000webhostapp.com/**
+<br /> <br /> <br />
+
+
+
+<h3 align="left">What i am doing now</h3>
 
 - 🔭 I’m currently working on **Real-Time Booking Ticket System**
 
@@ -20,8 +27,6 @@
 - 🤝 I’m looking for help with **HTML , CSS , Wordpress , C/C++, python etc.**
 
 - 💬 Ask me about **Ethical Hacking , Font-end Webpage Related**
-
-- 📫 How to reach me **koushikruj91@gmail.com**
 
 - ⚡ Fun fact **I am serious**
 
