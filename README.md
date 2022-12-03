@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **koushikruj91@gmail.com**
 
-- 🖥️ Personal Website Link **http://koushikruj.000webhostapp.com/**
+- 🖥️ Personal Website Link **https://koushikruj.netlify.app/**
 <br /> <br /> <br />
 
 
